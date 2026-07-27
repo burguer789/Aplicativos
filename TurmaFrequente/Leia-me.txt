@@ -1,0 +1,15 @@
+O aplicativo TurmaFrequente, desenvolvido por Álvaro Marcello Araújo Galiteri, é voltado para o público docente que deseja uma forma alternativa de realizar chamadas (frequência) de alunos e gestão de turmas. 
+
+--- AVISOS ---
+
+O aplicativo não está disponível na playstore, ou seja, o google play protect (sistema de verificação e proteção de aplicativos) do celular identifica o arquivo como um "aplicativo malicioso". Ainda não publiquei na playstore devido ao preço exigido para a licença.
+
+OBS: após instalar o arquivo e executá-lo, uma mensagem de segurança bloqueando a instalação direta do aplicativo aparecer-a e, junto a ela, ao clicar num botão semelhante a "mostrar mais", aparecerá "Instalar aplicativo mesmo assim". Ao clicar em permitir mesmo assim, o aplicativo será normalmente instalado no seu dispositivo.
+
+NOVAMEMTE!!! O aviso de segurança é gerado, pois o aplicativo está sendo instalado por fora dos serviços da playstore.
+
+Agradeço a compreensão e, em caso de dúvidas, entrar em contato.
+
+
+
+(o projeto tende a se estender para o público de Windows e de EOS)
